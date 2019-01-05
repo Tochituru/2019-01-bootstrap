@@ -1,4 +1,10 @@
-hr {
-    width: 50px;
-    color: white;
+.barra-blanca {
+    border: 2px solid white;
+    width: 200px;
+    border-radius: 2px;
+}
+.barra-negra {
+    border: 2px solid black;
+    width: 200px;
+    border-radius: 2px;
 }
